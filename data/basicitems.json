@@ -7,47 +7,47 @@
 			"weapon": true,
 			"weaponCategory": "Askeri",
 			"rarity": "",
-			"value": "10gp",
+			"value": "10 altın",
 			"weight": "4",
 			"dmg1": "1d8",
 			"dmg2": "1d10",
-			"dmgType": "S",
+			"dmgType": "kesme",
 			"property": [
-				"V"
+				"iki el"
 			],
 			"source": "PHB",
 			"page": 149
 		},
 		{
-			"name": "Blowgun",
+			"name": "Tüftüf",
 			"type": "R",
 			"weapon": true,
-			"weaponCategory": "Martial",
-			"rarity": "None",
-			"value": "10gp",
+			"weaponCategory": "Askeri",
+			"rarity": "",
+			"value": "10 altın",
 			"weight": "1",
 			"dmg1": "1",
-			"dmgType": "P",
+			"dmgType": "delme",
 			"property": [
-				"A",
-				"LD"
+				"mühimmat",
+				"mermi değiştirme"
 			],
 			"range": "25/100",
 			"source": "PHB",
 			"page": 149
 		},
 		{
-			"name": "Club",
+			"name": "Sopa",
 			"type": "M",
 			"weapon": true,
-			"weaponCategory": "Simple",
-			"rarity": "None",
-			"value": "1sp",
+			"weaponCategory": "",
+			"rarity": "",
+			"value": "1 gümüş",
 			"weight": "2",
 			"dmg1": "1d4",
-			"dmgType": "B",
+			"dmgType": "ezme",
 			"property": [
-				"L"
+				"hafif"
 			],
 			"source": "PHB",
 			"page": 149
