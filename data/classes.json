@@ -1095,7 +1095,7 @@
 											"exact": 1
 										}
 									},
-									"A tuft of fur from a solitary wolf that you befriended during a hunt"
+									"avlanırken arkadaş olduğun kurttan bir tutam kürk"
 								],
 								[
 									{
@@ -1104,7 +1104,7 @@
 											"exact": 2
 										}
 									},
-									"Three eagle feathers given to you by a wise shaman, who told you they would play a role in determining your fate"
+									"Bilge bir şaman tarafından verilmiş 3 kartal tüyü , birisi sana onların kaderini şekillendirirken önemli bir rol oynayacağını söyledi"
 								],
 								[
 									{
@@ -1113,7 +1113,7 @@
 											"exact": 3
 										}
 									},
-									"A necklace made from the claws of a young cave bear that you slew singlehandedly as a child"
+									"Çocukken tek başına öldürdüğün genç bir mağara ayısının pençelerinden yapılmış kolye, that you slew singlehandedly as a child"
 								],
 								[
 									{
@@ -1122,7 +1122,7 @@
 											"exact": 4
 										}
 									},
-									"A small leather pouch holding three stones that represent your ancestors"
+									"İçinde atalarını temsil eden 3 taş bulunan küçük deri bir kese"
 								],
 								[
 									{
@@ -2325,9 +2325,9 @@
 				{
 					"type": "quote",
 					"entries": [
-						"Music is the fruit of the divine tree that vibrates with the Words of Creation. But the question I ask you is, can a bard go to the root of this tree? Can one tap into the source of that power? Ah, then what manner of music they would bring to this world!"
+						"<Müzik yaradılış kelimeleriyle titreşen ilahi ağacın mevvesidir.Ama sana sorduğum soru, Bir ozan şu ağacın köküne gidebilir mi ? Birisi bu gücün kaynağına dokunabilir mi ? Ah o zaman bu dünyaya ne tarz bir büyü getireceklerdi!"
 					],
-					"by": "Fletcher Danairia, master bard"
+					"by": "Fletcher Danairia, usta ozan"
 				},
 				"Bards bring levity during grave times; they impart wisdom to offset ignorance; and they make the ridiculous seem sublime. Bards are preservers of ancient history, their songs and tales perpetuating the memory of great events down through time\u2014knowledge so important that it is memorized and passed along as oral history, to survive even when no written record remains.",
 				"It is also the bard's role to chronicle smaller and more contemporary events\u2014the stories of today's heroes, including their feats of valor as well as their less than impressive failures.",
